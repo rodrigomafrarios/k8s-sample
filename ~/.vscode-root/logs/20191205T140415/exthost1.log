@@ -1,0 +1,92 @@
+[2019-12-05 14:04:18.478] [exthost1] [info] extension host started
+[2019-12-05 14:04:18.519] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:04:18.520] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2019-12-05 14:04:18.587] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:04:18.587] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2019-12-05 14:04:18.780] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:04:18.780] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2019-12-05 14:04:18.794] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:04:18.794] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/out/extension
+[2019-12-05 14:04:18.801] [exthost1] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:04:18.801] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aluno/.vscode/extensions/editorconfig.editorconfig-0.12.4/out/src/editorConfigMain
+[2019-12-05 14:04:18.832] [exthost1] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:04:18.832] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aluno/.vscode/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2019-12-05 14:04:18.837] [exthost1] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:04:18.837] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aluno/.vscode/extensions/formulahendry.auto-rename-tag-0.1.1/out/src/extension
+[2019-12-05 14:04:18.839] [exthost1] [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-codemetrics {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:04:18.839] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aluno/.vscode/extensions/kisstkondoros.vscode-codemetrics-1.19.1/out/src/extension
+[2019-12-05 14:04:19.450] [exthost1] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:04:19.450] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aluno/.vscode/extensions/vscode-icons-team.vscode-icons-8.8.0/out/src/
+[2019-12-05 14:04:19.572] [exthost1] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:04:19.572] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aluno/.vscode/extensions/wayou.vscode-todo-highlight-1.0.4/src/extension
+[2019-12-05 14:04:19.576] [exthost1] [info] eager extensions activated
+[2019-12-05 14:04:32.520] [exthost1] [info] extension host started
+[2019-12-05 14:04:32.553] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:04:32.553] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2019-12-05 14:04:32.616] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:04:32.616] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2019-12-05 14:04:32.828] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:04:32.828] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2019-12-05 14:04:32.840] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:04:32.840] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/out/extension
+[2019-12-05 14:04:32.847] [exthost1] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:04:32.847] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aluno/.vscode/extensions/editorconfig.editorconfig-0.12.4/out/src/editorConfigMain
+[2019-12-05 14:04:32.877] [exthost1] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:04:32.877] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aluno/.vscode/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2019-12-05 14:04:32.878] [exthost1] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:04:32.878] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aluno/.vscode/extensions/formulahendry.auto-rename-tag-0.1.1/out/src/extension
+[2019-12-05 14:04:32.881] [exthost1] [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-codemetrics {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:04:32.881] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aluno/.vscode/extensions/kisstkondoros.vscode-codemetrics-1.19.1/out/src/extension
+[2019-12-05 14:04:33.391] [exthost1] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:04:33.391] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aluno/.vscode/extensions/vscode-icons-team.vscode-icons-8.8.0/out/src/
+[2019-12-05 14:04:33.494] [exthost1] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:04:33.494] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aluno/.vscode/extensions/wayou.vscode-todo-highlight-1.0.4/src/extension
+[2019-12-05 14:04:33.498] [exthost1] [info] eager extensions activated
+[2019-12-05 14:04:34.511] [exthost1] [info] ExtensionService#_doActivateExtension PeterJausovec.vscode-docker {"startup":false,"activationEvent":"onLanguage:yaml"}
+[2019-12-05 14:04:34.511] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aluno/.vscode/extensions/peterjausovec.vscode-docker-0.4.0/out/dockerExtension
+[2019-12-05 14:09:41.326] [exthost1] [info] extension host started
+[2019-12-05 14:09:41.368] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:09:41.368] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2019-12-05 14:09:41.439] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:09:41.439] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2019-12-05 14:09:41.644] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:09:41.644] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2019-12-05 14:09:41.655] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:09:41.655] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/out/extension
+[2019-12-05 14:09:41.660] [exthost1] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:09:41.660] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aluno/.vscode/extensions/editorconfig.editorconfig-0.12.4/out/src/editorConfigMain
+[2019-12-05 14:09:41.685] [exthost1] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:09:41.685] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aluno/.vscode/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2019-12-05 14:09:41.686] [exthost1] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:09:41.686] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aluno/.vscode/extensions/formulahendry.auto-rename-tag-0.1.1/out/src/extension
+[2019-12-05 14:09:41.688] [exthost1] [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-codemetrics {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:09:41.688] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aluno/.vscode/extensions/kisstkondoros.vscode-codemetrics-1.19.1/out/src/extension
+[2019-12-05 14:09:42.242] [exthost1] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:09:42.242] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aluno/.vscode/extensions/vscode-icons-team.vscode-icons-8.8.0/out/src/
+[2019-12-05 14:09:42.341] [exthost1] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight {"startup":true,"activationEvent":"*"}
+[2019-12-05 14:09:42.341] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aluno/.vscode/extensions/wayou.vscode-todo-highlight-1.0.4/src/extension
+[2019-12-05 14:09:42.344] [exthost1] [info] eager extensions activated
+[2019-12-05 17:29:15.674] [exthost1] [info] extension host started
+[2019-12-05 17:29:15.706] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-12-05 17:29:15.706] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2019-12-05 17:29:15.775] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-12-05 17:29:15.775] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2019-12-05 17:29:15.988] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-12-05 17:29:15.988] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2019-12-05 17:29:16.003] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2019-12-05 17:29:16.003] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/out/extension
+[2019-12-05 17:29:16.009] [exthost1] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"activationEvent":"*"}
+[2019-12-05 17:29:16.009] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aluno/.vscode/extensions/editorconfig.editorconfig-0.12.4/out/src/editorConfigMain
+[2019-12-05 17:29:16.044] [exthost1] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2019-12-05 17:29:16.044] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aluno/.vscode/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2019-12-05 17:29:16.045] [exthost1] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-12-05 17:29:16.045] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aluno/.vscode/extensions/formulahendry.auto-rename-tag-0.1.1/out/src/extension
+[2019-12-05 17:29:16.049] [exthost1] [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-codemetrics {"startup":true,"activationEvent":"*"}
+[2019-12-05 17:29:16.049] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aluno/.vscode/extensions/kisstkondoros.vscode-codemetrics-1.19.1/out/src/extension
+[2019-12-05 17:29:16.601] [exthost1] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-12-05 17:29:16.601] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aluno/.vscode/extensions/vscode-icons-team.vscode-icons-8.8.0/out/src/
+[2019-12-05 17:29:16.699] [exthost1] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight {"startup":true,"activationEvent":"*"}
+[2019-12-05 17:29:16.699] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aluno/.vscode/extensions/wayou.vscode-todo-highlight-1.0.4/src/extension
+[2019-12-05 17:29:16.702] [exthost1] [info] eager extensions activated
+[2019-12-05 17:29:16.706] [exthost1] [info] ExtensionService#_doActivateExtension PeterJausovec.vscode-docker {"startup":false,"activationEvent":"onLanguage:yaml"}
+[2019-12-05 17:29:16.706] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aluno/.vscode/extensions/peterjausovec.vscode-docker-0.4.0/out/dockerExtension
