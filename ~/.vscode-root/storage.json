@@ -21,6 +21,11 @@
             "label": "Ctrl+Shift+T",
             "isNative": true
         },
+        "workbench.action.openRecent": {
+            "id": "workbench.action.openRecent",
+            "label": "Ctrl+R",
+            "isNative": true
+        },
         "workbench.action.files.save": {
             "id": "workbench.action.files.save",
             "label": "Ctrl+S",
@@ -453,8 +458,24 @@
     "openedPathsList": {
         "workspaces": [
             "/home/aluno/kubernetes-sample",
+            "/home/aluno/kubernetes-sample",
+            "/home/aluno/kubernetes-sample",
             "/home/aluno/go-sample"
         ],
         "files": []
+    },
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderPath": "/home/aluno/kubernetes-sample",
+            "backupPath": "/home/aluno/kubernetes-sample/~/.vscode-root/Backups/cbf06e75a74f19f33cb5483e79de2f82",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 25,
+                "width": 1920,
+                "height": 901
+            }
+        }
     }
 }
